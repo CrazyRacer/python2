@@ -1,5 +1,4 @@
 import threading, time
-from kafka import TopicPartition
 from kafka import KafkaConsumer
 
 
